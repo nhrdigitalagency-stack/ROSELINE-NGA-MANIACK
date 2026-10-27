@@ -271,26 +271,8 @@ export const HeroBubbleMenu: React.FC<BubbleMenuProps> = ({ settings, onNotify }
       {/* Single-line Floating Bubble Header Bar with White Transparent Background */}
       <nav
         aria-label={t.bubbleMenu.triggerLabel}
-        className="max-w-7xl mx-auto flex items-center justify-between gap-2 px-3 sm:px-4 py-2 rounded-full bg-white/75 backdrop-blur-xl border border-[#FF9F43] shadow-[0_8px_32px_rgba(255,159,67,0.35)] flex-nowrap"
+        className="max-w-7xl mx-auto flex items-center justify-end lg:justify-center gap-2 px-3 sm:px-5 py-2 rounded-full bg-white/75 backdrop-blur-xl border border-[#FF9F43] shadow-[0_8px_32px_rgba(255,159,67,0.35)] flex-nowrap"
       >
-        {/* Left: Brand Monogram Bubble + Name on 1 Line */}
-        <Link
-          to="/"
-          className="neon-bubble flex items-center gap-2.5 pl-1.5 pr-3.5 py-1 rounded-full bg-white/85 text-[#1F1610] hover:bg-[#FF9F43] hover:text-[#1A1008] transition-all shrink-0 group"
-        >
-          <span className="w-8 h-8 rounded-full bg-[#FF9F43] text-[#1A1008] group-hover:bg-[#1A1008] group-hover:text-[#FF9F43] flex items-center justify-center font-serif font-bold text-xs tracking-wider shadow-[0_0_12px_rgba(255,159,67,0.8)] transition-colors">
-            RNM
-          </span>
-          <div className="flex flex-col text-left leading-tight">
-            <span className="font-serif font-bold text-sm sm:text-base text-[#1F1610] group-hover:text-[#1A1008] whitespace-nowrap">
-              {settings.honoreeName}
-            </span>
-            <span className="text-[10px] text-[#9A4D06] group-hover:text-[#1A1008]/85 hidden sm:inline whitespace-nowrap font-medium">
-              {t.meta.degreeLabel}
-            </span>
-          </div>
-        </Link>
-
         {/* Center: Desktop Single-Line Interactive Hover Bubbles (`hidden lg:flex flex-nowrap`) */}
         <div className="hidden lg:flex items-center justify-center gap-1.5 flex-nowrap">
           {heroBubbles.map((b) => {
