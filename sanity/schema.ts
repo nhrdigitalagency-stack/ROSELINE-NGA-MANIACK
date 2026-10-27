@@ -1,0 +1,93 @@
+/**
+ * Sanity CMS Schema Definitions (Project ID: occg14cs | Org ID: oh314dkvd)
+ * Used to synchronize event settings, dissertation content, announcements,
+ * RSVPs, moderated testimonials, and photo metadata with Sanity Content Lake.
+ */
+
+export const sanitySchemaTypes = [
+  {
+    name: 'eventSettings',
+    title: 'Configuration de la Soutenance',
+    type: 'document',
+    fields: [
+      { name: 'honoreeName', title: 'Nom de la candidate', type: 'string' },
+      { name: 'degreeLabel', title: 'Grade universitaire', type: 'string' },
+      { name: 'fieldOfStudy', title: 'Discipline', type: 'string' },
+      { name: 'institutionName', title: 'Nom officiel de l’établissement', type: 'string' },
+      { name: 'institutionConfirmed', title: 'Établissement confirmé', type: 'boolean' },
+      { name: 'eventDate', title: 'Date de la soutenance', type: 'date' },
+      { name: 'startTime', title: 'Heure de début', type: 'string' },
+      { name: 'endTime', title: 'Heure de fin', type: 'string' },
+      { name: 'timeZone', title: 'Fuseau horaire', type: 'string' },
+      { name: 'amphitheatre', title: 'Amphithéâtre', type: 'string' },
+      { name: 'room', title: 'Salle', type: 'string' },
+      { name: 'sameSpaceConfirmed', title: 'Amphi 250 et Salle SA B2 désignent le même espace', type: 'boolean' },
+      { name: 'locationConfirmed', title: 'Localisation confirmée', type: 'boolean' },
+      { name: 'address', title: 'Adresse complète', type: 'string' },
+      { name: 'whatsappNumber', title: 'Numéro WhatsApp autorisé', type: 'string' },
+      { name: 'eventStatus', title: 'Statut de l’événement (upcoming | event_day | completed)', type: 'string' },
+      { name: 'resultStatus', title: 'Statut du résultat (not_announced | confirmed_success)', type: 'string' },
+      { name: 'resultPublicText', title: 'Texte public du résultat', type: 'text' },
+      { name: 'allowRsvp', title: 'Autoriser les confirmations de présence', type: 'boolean' },
+      { name: 'allowTestimonials', title: 'Autoriser les témoignages', type: 'boolean' },
+      { name: 'allowPhotoContributions', title: 'Autoriser l’ajout de photos', type: 'boolean' },
+      { name: 'galleryVisibility', title: 'Visibilité de la galerie (private | public)', type: 'string' },
+    ],
+  },
+  {
+    name: 'dissertationContent',
+    title: 'Contenu du Mémoire',
+    type: 'document',
+    fields: [
+      { name: 'titleFr', title: 'Titre du mémoire (FR)', type: 'string' },
+      { name: 'titleEn', title: 'Titre du mémoire (EN)', type: 'string' },
+      { name: 'subtitleFr', title: 'Sous-titre (FR)', type: 'string' },
+      { name: 'subtitleEn', title: 'Sous-titre (EN)', type: 'string' },
+      { name: 'problematicFr', title: 'Problématique (FR)', type: 'text' },
+      { name: 'problematicEn', title: 'Problématique (EN)', type: 'text' },
+      { name: 'summaryFr', title: 'Résumé (FR)', type: 'text' },
+      { name: 'summaryEn', title: 'Résumé (EN)', type: 'text' },
+      { name: 'supervisorName', title: 'Encadrant', type: 'string' },
+    ],
+  },
+  {
+    name: 'testimonial',
+    title: 'Témoignage / Encouragement',
+    type: 'document',
+    fields: [
+      { name: 'authorName', title: 'Prénom ou pseudonyme', type: 'string' },
+      { name: 'relationship', title: 'Lien avec Roseline', type: 'string' },
+      { name: 'category', title: 'Catégorie (encouragement | testimonial | congratulations)', type: 'string' },
+      { name: 'content', title: 'Message', type: 'text' },
+      { name: 'status', title: 'Statut (pending | approved | rejected)', type: 'string' },
+      { name: 'createdAt', title: 'Date de création', type: 'datetime' },
+    ],
+  },
+  {
+    name: 'rsvpSubmission',
+    title: 'Confirmation de présence',
+    type: 'document',
+    fields: [
+      { name: 'firstName', title: 'Prénom', type: 'string' },
+      { name: 'lastName', title: 'Nom', type: 'string' },
+      { name: 'attendance', title: 'Présence (present | absent | maybe)', type: 'string' },
+      { name: 'guestsCount', title: 'Accompagnants', type: 'number' },
+      { name: 'message', title: 'Message', type: 'text' },
+      { name: 'createdAt', title: 'Date', type: 'datetime' },
+    ],
+  },
+  {
+    name: 'photoItem',
+    title: 'Photo Souvenir',
+    type: 'document',
+    fields: [
+      { name: 'contributorName', title: 'Contributeur', type: 'string' },
+      { name: 'showContributorName', title: 'Afficher le prénom', type: 'boolean' },
+      { name: 'caption', title: 'Légende', type: 'string' },
+      { name: 'category', title: 'Catégorie', type: 'string' },
+      { name: 'status', title: 'Statut (pending | approved | rejected)', type: 'string' },
+      { name: 'imageUrl', title: 'URL de l’image', type: 'string' },
+      { name: 'createdAt', title: 'Date', type: 'datetime' },
+    ],
+  },
+];

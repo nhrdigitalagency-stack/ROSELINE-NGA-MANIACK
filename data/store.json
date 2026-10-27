@@ -1,0 +1,211 @@
+{
+  "settings": {
+    "honoreeName": "Roseline Nga Maniack",
+    "degreeLabel": "Licence",
+    "fieldOfStudy": "Droit des affaires",
+    "institutionName": "Université de Ngoakele",
+    "institutionOfficialName": "Université de Ngoa-Ekellé — Précisément INSECK",
+    "institutionConfirmed": true,
+    "eventDate": "2026-12-23",
+    "startTime": "12:30",
+    "endTime": "15:40",
+    "timeZone": "Africa/Douala",
+    "amphitheatre": "Amphi 250",
+    "room": "Salle SA B2",
+    "sameSpaceConfirmed": true,
+    "locationConfirmed": true,
+    "address": "Campus de Ngoa-Ekellé, INSECK, Yaoundé",
+    "mapsUrl": "",
+    "venuePhotoUrl": "",
+    "portraitUrl": "/assets/aistudio/Portrait_de_dipl_m_e_tenant_son_dipl_me_8614093b.png",
+    "dissertationTitle": "La responsabilité des dirigeants de sociétés commerciales : Entre renforcement des contrôles et incitation à la prise de risque",
+    "dissertationTitleEn": "Corporate Directors' Liability in Commercial Companies: Between Strengthened Oversight and Risk-Taking Incentives",
+    "dissertationSubtitle": "Étude des mécanismes d'équilibre juridique en droit des sociétés commerciales",
+    "dissertationSubtitleEn": "A study of legal balancing mechanisms in commercial corporate law",
+    "dissertationDomain": "Droit des affaires · Droit des sociétés commerciales et gouvernance d'entreprise",
+    "dissertationDomainEn": "Business Law · Commercial Corporate Law & Corporate Governance",
+    "dissertationProblematic": "Comment concilier l'exigence croissante de contrôle et de transparence imposée aux dirigeants sociaux avec la nécessité de préserver leur liberté d'initiative et la prise de risque inhérente à la vie des affaires ?",
+    "dissertationProblematicEn": "How can the growing demand for oversight and transparency imposed on corporate directors be reconciled with the need to preserve entrepreneurial initiative and the risk-taking inherent in business life?",
+    "dissertationSummary": "Ce mémoire de licence analyse la tension contemporaine qui traverse le régime de responsabilité des dirigeants de sociétés commerciales. D'une part, la protection des associés, des créanciers et de l'ordre public économique conduit à un encadrement rigoureux des fautes de gestion. D'autre part, l'efficacité économique suppose de ne pas paralyser la décision stratégique par une crainte excessive de la sanction.",
+    "dissertationSummaryEn": "This undergraduate dissertation examines the contemporary tension shaping the liability regime of commercial company directors. On one hand, protecting shareholders, creditors, and economic public order requires rigorous oversight of management misconduct. On the other hand, economic vitality requires avoiding the paralysis of strategic decision-making caused by excessive fear of sanction.",
+    "dissertationObjectives": [
+      "Analyser les fondements civils, pénaux et statutaires de la responsabilité des dirigeants de sociétés commerciales",
+      "Évaluer l'impact du renforcement des mécanismes de contrôle interne et externe sur la gouvernance sociétaire",
+      "Identifier les garde-fous juridiques protégeant l'aléa normal et la prise de risque entrepreneuriale légitime"
+    ],
+    "dissertationObjectivesEn": [
+      "Analyze the civil, criminal, and statutory foundations of corporate directors' liability",
+      "Evaluate the impact of strengthened internal and external oversight mechanisms on corporate governance",
+      "Identify legal safeguards protecting normal business risk and legitimate entrepreneurial initiative"
+    ],
+    "dissertationKeywords": [
+      "Droit des affaires",
+      "Sociétés commerciales",
+      "Responsabilité des dirigeants",
+      "Contrôle sociétaire",
+      "Prise de risque",
+      "Gouvernance"
+    ],
+    "dissertationKeywordsEn": [
+      "Business Law",
+      "Commercial Companies",
+      "Directors' Liability",
+      "Corporate Oversight",
+      "Risk-Taking",
+      "Governance"
+    ],
+    "supervisorName": "",
+    "juryMembers": [],
+    "dissertationCoverUrl": "",
+    "dissertationPdfUrl": "",
+    "allowPdfDownload": false,
+    "publicAccessInformation": "L'accès à l'Amphi 250 (Salle SA B2) au sein de l'INSECK (Université de Ngoa-Ekellé) s'effectue dans le respect du protocole académique. Il est recommandé de s'installer 15 minutes avant le début du créneau annoncé (12 h 30).",
+    "publicAccessInformationEn": "Access to Amphi 250 (Room SA B2) at INSECK (Université de Ngoa-Ekellé) follows academic protocol. Guests are kindly advised to be seated 15 minutes prior to the announced 12:30 PM time slot.",
+    "acknowledgementsTextFr": "Chaque étape de ce travail de recherche a été nourrie par la rigueur de l'enseignement reçu, la patience de l'accompagnement académique et la bienveillance constante de mes proches. Votre soutien discret ou exprimé donne tout son sens à cette soutenance.",
+    "acknowledgementsTextEn": "Every stage of this research has been shaped by rigorous academic instruction, thoughtful supervision, and the unwavering kindness of my family and friends. Your support—whether quiet or spoken—gives true meaning to this milestone.",
+    "contactName": "Organisation Soutenance — Roseline Nga Maniack",
+    "whatsappNumber": "+237692738430",
+    "eventStatus": "upcoming",
+    "resultStatus": "not_announced",
+    "resultPublicText": "",
+    "resultPublicTextEn": "",
+    "laureateTitleConfirmed": false,
+    "allowRsvp": true,
+    "allowAcccompanyingGuests": true,
+    "allowTestimonials": true,
+    "allowPhotoContributions": true,
+    "galleryVisibility": "public",
+    "defaultLocale": "fr",
+    "supportedLocales": [
+      "fr",
+      "en"
+    ],
+    "siteUrl": "https://ais-dev-6tz2cntk4saako4jks3pzs-323022168140.europe-west2.run.app",
+    "retentionMonths": 24,
+    "programSteps": [
+      {
+        "id": "step-1",
+        "order": 1,
+        "titleFr": "Accueil et installation",
+        "titleEn": "Guest Reception & Seating",
+        "descriptionFr": "Arrivée et installation des invités à l'Amphi 250 / Salle SA B2 (INSECK Ngoa-Ekellé) dans le respect des consignes de la salle.",
+        "descriptionEn": "Arrival and seating of guests at Amphi 250 / Room SA B2 (INSECK Ngoa-Ekellé) in accordance with auditorium guidelines.",
+        "timeIndication": "12:30",
+        "confirmed": true
+      },
+      {
+        "id": "step-2",
+        "order": 2,
+        "titleFr": "Présentation du mémoire",
+        "titleEn": "Dissertation Presentation",
+        "descriptionFr": "Exposé oral des travaux de recherche sur la responsabilité des dirigeants de sociétés commerciales devant les membres du jury.",
+        "descriptionEn": "Oral presentation of the research on corporate directors' liability before the examination committee.",
+        "timeIndication": "",
+        "confirmed": true
+      },
+      {
+        "id": "step-3",
+        "order": 3,
+        "titleFr": "Échanges avec le jury",
+        "titleEn": "Discussion with the Committee",
+        "descriptionFr": "Séance de questions, observations méthodologiques et débat scientifique avec le jury académique.",
+        "descriptionEn": "Questions, methodological observations, and academic discussion with the committee.",
+        "timeIndication": "",
+        "confirmed": true
+      },
+      {
+        "id": "step-4",
+        "order": 4,
+        "titleFr": "Clôture et photos souvenirs",
+        "titleEn": "Closing & Commemorative Photos",
+        "descriptionFr": "Clôture de la séance dans le créneau 12 h 30 – 15 h 40, suivie des photos souvenirs si autorisées.",
+        "descriptionEn": "Session closing within the 12:30 PM – 3:40 PM slot, followed by commemorative photos as permitted.",
+        "timeIndication": "15:40",
+        "confirmed": true
+      }
+    ],
+    "milestones": [
+      {
+        "id": "m-1",
+        "order": 1,
+        "category": "formation",
+        "titleFr": "Formation universitaire en Droit des affaires",
+        "titleEn": "Academic Training in Business Law",
+        "subtitleFr": "Licence en droit des affaires · Université de Ngoa-Ekellé (INSECK)",
+        "subtitleEn": "Bachelor of Business Law · Université de Ngoa-Ekellé (INSECK)",
+        "descriptionFr": "Acquisition des fondamentaux du droit privé, du droit commercial général et du droit des sociétés commerciales.",
+        "descriptionEn": "Core studies in private law, general commercial law, and corporate law."
+      },
+      {
+        "id": "m-2",
+        "order": 2,
+        "category": "recherche",
+        "titleFr": "Recherche et rédaction du mémoire",
+        "titleEn": "Dissertation Research & Drafting",
+        "subtitleFr": "Responsabilité des dirigeants de sociétés commerciales",
+        "subtitleEn": "Corporate Directors' Liability in Commercial Companies",
+        "descriptionFr": "Étude approfondie de l'équilibre entre le renforcement des mécanismes de contrôle et la préservation de l'incitation à la prise de risque.",
+        "descriptionEn": "In-depth analysis of the balance between strengthened corporate oversight and entrepreneurial risk-taking."
+      },
+      {
+        "id": "m-3",
+        "order": 3,
+        "category": "preparation",
+        "titleFr": "Soutenance de mémoire de licence",
+        "titleEn": "Undergraduate Dissertation Defense",
+        "subtitleFr": "23 décembre 2026 · 12 h 30 – 15 h 40 · Amphi 250 (Salle SA B2)",
+        "subtitleEn": "December 23, 2026 · 12:30 PM – 3:40 PM · Amphi 250 (Room SA B2)",
+        "descriptionFr": "Présentation publique des travaux et échanges académiques à l’INSECK (Université de Ngoa-Ekellé).",
+        "descriptionEn": "Oral defense and academic exchange at INSECK (Université de Ngoa-Ekellé)."
+      }
+    ]
+  },
+  "announcements": [],
+  "rsvps": [],
+  "testimonials": [],
+  "photos": [
+    {
+      "id": "photo-official-portrait",
+      "contributorName": "Roseline Nga Maniack",
+      "showContributorName": true,
+      "caption": "Portrait officiel — Roseline Nga Maniack (Licence en droit des affaires)",
+      "category": "official",
+      "imageUrl": "/assets/aistudio/Portrait_de_dipl_m_e_tenant_son_dipl_me_8614093b.png",
+      "thumbnailUrl": "/assets/aistudio/Portrait_de_dipl_m_e_tenant_son_dipl_me_8614093b.png",
+      "mimeType": "image/png",
+      "fileSize": 420000,
+      "consentGiven": true,
+      "status": "approved",
+      "createdAt": "2026-10-27T02:51:16.017Z"
+    },
+    {
+      "id": "photo-jury-defense",
+      "contributorName": "Roseline Nga Maniack",
+      "showContributorName": true,
+      "caption": "Soutenance et présentation des travaux devant les membres du jury",
+      "category": "defense",
+      "imageUrl": "/assets/aistudio/Soutenance_devant_le_jury_24daadeb.png",
+      "thumbnailUrl": "/assets/aistudio/Soutenance_devant_le_jury_24daadeb.png",
+      "mimeType": "image/png",
+      "fileSize": 510000,
+      "consentGiven": true,
+      "status": "approved",
+      "createdAt": "2026-10-27T02:51:16.018Z"
+    },
+    {
+      "id": "photo-family-pride",
+      "contributorName": "Roseline Nga Maniack",
+      "showContributorName": true,
+      "caption": "Portrait familial de fierté et de partage autour de cette étape académique",
+      "category": "group",
+      "imageUrl": "/assets/aistudio/Portrait_familial_de_fiert__et_de_r_ussite_02488a8f.png",
+      "thumbnailUrl": "/assets/aistudio/Portrait_familial_de_fiert__et_de_r_ussite_02488a8f.png",
+      "mimeType": "image/png",
+      "fileSize": 540000,
+      "consentGiven": true,
+      "status": "approved",
+      "createdAt": "2026-10-27T02:51:16.018Z"
+    }
+  ],
+  "lastSanitySyncAt": "2026-10-27T07:04:13.947Z"
+}
